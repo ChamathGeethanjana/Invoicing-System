@@ -1,2 +1,2 @@
-Invoicing System
-This is a invoicing System develop using java and SQL.
+"Invoicing System"
+This is an invoicing System developed using java and SQL.
